@@ -2,3 +2,5 @@ Kelas Bersama Resolusi
 -Membuat konten tutorial
 -Membuat Konten Tulisan
 -Membuat forum diskusi
+-Membuat projek tulisan 
+-Kolaborasi dengan praktisi dan akademisi
