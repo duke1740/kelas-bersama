@@ -1,0 +1,6 @@
+Rencana Konten Kelas Bersama
+-Dasar Pemrograman
+  * Algoritma
+  * Pseudocode
+-Internet Of Things
+-Vlogs
